@@ -1,7 +1,7 @@
 ### H3llo W0rld!!! 🙏
 
 - 🔭 I’m currently working on ... CyberSecurity
-- 🌱 I’m currently learning ... CISSP, Meachine Learning, Python, Lua, Haskell
+- 🌱 I’m currently learning ... CISSP, Python, Lua, Haskell
 - 👯 I’m looking to collaborate on ... Python, Shell Script, Lua
 - 💬 Ask me about ... Wh0amI
 - 📫 How to reach me: ... [Github](https://github.com/dhawal89)
